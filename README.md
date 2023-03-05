@@ -4,7 +4,7 @@
 ## ゲーム概要
 -タイトル画面が表示されスタートボタンがクリックされると,位置情報の取得が開始される.位置情報から建物のオブジェクトを入手したら,建物が画面上に設置(オクルージョン)され,建物に沿ったレーンが作成され,ノーツが落ちてくる.ノーツをたたくとコンボカウントが増えていき,音楽ゲーム終了時にスコアが表示される.
 ## タイトル画面
-<img width="883" alt="title" src="https://user-images.githubusercontent.com/115143247/222949807-0e02121c-d0bd-4d47-8b9d-29840b14f959.png">
+- <img width="883" alt="title" src="https://user-images.githubusercontent.com/115143247/222949807-0e02121c-d0bd-4d47-8b9d-29840b14f959.png">
 ## ゲーム画面
 <img width="883" alt="title" src="https://user-images.githubusercontent.com/115143247/222949807-0e02121c-d0bd-4d47-8b9d-29840b14f959.png">
 ### 背景
