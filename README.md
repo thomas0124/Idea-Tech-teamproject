@@ -44,6 +44,7 @@
 #### フレームワーク・ライブラリ・モジュール
 * Unity
 * Blender
+* Cubase
 * ARCore Extensions
 * AR foundation
 * ARCore XR Plugin
